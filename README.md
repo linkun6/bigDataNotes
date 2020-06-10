@@ -9,7 +9,7 @@
 
 ### 大数据常用工具
 以下是与处理流程对应的常用工具。
-![avatar](src/img/大数据工具功能总览.png)
+![avatar](src/img/readme/toolsAndFun.png)
 ## 工具分述
 ### hadoop
 * [环境配置](hadoop.md)
