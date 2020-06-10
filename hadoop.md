@@ -6,4 +6,7 @@
 * 购置服务器：服务器提供商提供了足够的性能，但文件传输不易，偶见SSH产生延迟影响工作效率
 * （推荐方法）使用WSL（Windows Subsystem for Linux），windows子系统，在Windows环境下直接使用命令行形式的Linux系统，安装删除快，能够直接访问Windows下的文件。本项目主操作系统使用Ubuntu20.04。
 
-WSL具体安装方法见[环境与工具选用](envAndTools.md)
+WSL具体安装方法见[环境与工具选用](envAndTools.md##WSL)
+
+## 新系统环境配置
+当下我们是使用未有经过配置的操作系统，需要配置网络和软件镜像源，方法见[修改镜像源](envAndTools.md###修改软件镜像源)
